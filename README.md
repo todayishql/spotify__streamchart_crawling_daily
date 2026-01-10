@@ -319,5 +319,5 @@ https://charts-spotify-com-service.spotify.com/auth/v0/charts/regional-{{lower(c
             "code": "VN",
             "readableName": "Vietnam"
         }
-    ],
+    ]
     ```
